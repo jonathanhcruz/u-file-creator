@@ -10,7 +10,8 @@ This project is a terminal-based application for create, edit and delete files. 
 
 ## Requirements
 
-![Screenshot 2024-11-10 at 4 20 06 PM](https://github.com/user-attachments/assets/fdd8b993-f482-4bce-9404-daec2eadc0eb)
+<img width="714" height="72" alt="Screenshot 2025-08-27 at 9 55 33 PM" src="https://github.com/user-attachments/assets/66ad6106-d5fa-4345-8ea1-c9fcfb7ed8d0" />
+
 
 ## Usage
 
